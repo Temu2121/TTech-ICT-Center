@@ -1,4 +1,3 @@
-<?php include "email.php"; ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -417,24 +416,21 @@ h1 {
         </div>
       </div>
     </div>
-  
+
     <div class="column3">
       <div class="card">
         <div class="container2">
-        <iframe src= 
-"https://www.google.com/maps/@8.9980928,38.7678208,11z?entry=ttu"
-                    width="400"
-                    height="300"
-                    frameborder="0"
-                    style="border:0;"
-                    allowfullscreen=""
-                    aria-hidden="false"
-                    tabindex="0"> 
-            </iframe> 
+          <h2 style=" color: aliceblue; font-weight:bold;">Explore More!</h2>
+          <div class="downnav">
+            <a href="#home" >Home</a>
+            <a href="#about">About Us</a>
+            <a href="#course">Courses</a>
+            <a href="#service">Services</a>
+          </div>
+          <p><button class="knowmore">Browse Courses</button></p>
         </div>
       </div>
-    </div>
-    
+    </div> 
   </div>
   
 
